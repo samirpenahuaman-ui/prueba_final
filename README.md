@@ -1,7 +1,11 @@
+
+
 # prueba_final
+Lista de clases 
+
 1.- Evans Acuña
-2.-
-3.-
+2.- Benjamin Gorigoitia
+3.- Dante Retamal
 4.-
 5.-
 6.-
@@ -19,7 +23,7 @@
 18.-
 19.-
 20.-
-21.-
+21.-gianella
 22.-
 23.-
 24.-
@@ -33,14 +37,17 @@
 32.-
 33.-
 34.-
-35.-
+35.- Sebastian Gonzalez
 36.-
-37.-
-38.-Camilo Mori
+37.- Manuel ibañez
+38.- Camilo Mori
 39.- Sebastian Pereira
 40.-
 41.- Felipe Gutierrez
 42.-
 43.-
 44.- 
-45.- Profesora Liza Molina
+45.-
+46.- Profesora Liza Molina
+
+

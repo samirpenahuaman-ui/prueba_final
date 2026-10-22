@@ -1,5 +1,7 @@
 /* Base general css */
 
+
+/*Estilo de letra y base de scroll dentro de toda la pagina*/
 html {
     font-family: sans-serif;
 
@@ -7,16 +9,22 @@ html {
     scroll-behavior: smooth;
 }
 
+
+/*Alineacion del scroll para header, main y footer*/
 header, .introduccion, footer {
     scroll-snap-align: start
 }
 
+
+/*Estilos para todas las etiquetas dentro del HTML*/
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 
+
+/*Estilos para todos los enlaces*/
 a {
     text-decoration: none;
     color: black;
@@ -38,7 +46,7 @@ p {
     font-size: 20px;
 }
 
-/* Estilo Navbar General */ 
+/* Estilo Navbar superior de la pagina dentro de header */ 
 
 nav {
     display: flex;
@@ -53,6 +61,7 @@ nav {
     background-color: #000;
 }
 
+/* Estilos para los enlaces dentro del Navbar Superior*/
 nav a {
     font-size: 16px;
     color: #fff;
@@ -89,6 +98,8 @@ section {
     min-height: 100vh;
 }
 
+
+/*Estilos para el contenedor de los section*/
 .introduccion {
     width: 100%;
     display: grid;
@@ -104,6 +115,8 @@ section {
     padding-top: 59px;
 }
 
+
+/*Estilos para el primer article dentro del section*/
 .header-intro, .card-intro {
     display: flex;
     flex-direction: column;
@@ -111,6 +124,8 @@ section {
     align-items: center;
 }
 
+
+/*Estilos para todos los article con informacion de un html diferente (formulario.html | mi_historia.html | mis_suenos.html )*/
 .card-intro {
     gap: 40px;
     padding: 10px 30px;
@@ -121,7 +136,7 @@ section {
     background-color: rgb(221, 221, 221);
 }
 
-/* footer index.html */
+/* footer inferior de la pagina index.html */
 
 footer {
     height: 100vh;
@@ -130,6 +145,7 @@ footer {
     justify-content: center;
 }
 
+/* Estilos del parrafo de texto dentro del footer inferior*/
 footer p {
     font-size: 32px;
 }
